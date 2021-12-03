@@ -1,4 +1,4 @@
-# Place this file in [repo]/.github/workflows/master.yml
+  # Place this file in [repo]/.github/workflows/master.yml
 
 on: 
   push:
